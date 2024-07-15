@@ -1,6 +1,7 @@
 
 
 Air Quality Index From Various Locations of India - My Latest Power BI Dashboard ProjectAir Quality Index From Various Locations of India - My Latest Power BI Dashboard Project
+
 🚀 Excited to Share My Latest Power BI Dashboard Project! 🚀
 
 I'm thrilled to announce the completion of my latest Power BI dashboard project, which explores the Air Quality Index from various locations in India. I sourced the dataset from Kaggle and utilized a range of tools and visualizations within Power BI to uncover meaningful insights.
